@@ -1,0 +1,17 @@
+{
+  "name": "dreamjsgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "dreamjs": "^0.1.7",
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "author": "Ali Karami",
+  "license": "ISC"
+}
